@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/infiniteoo/REACT-webpack_4_from_scratch/issues"
   },
-  "homepage": "https://github.com/infiniteoo/REACT-webpack_4_from_scratch#readme"
+  "homepage": "https://github.com/infiniteoo/REACT-webpack_4_from_scratch#readme",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "webpack": "^5.53.0",
+    "webpack-cli": "^4.8.0",
+    "webpack-dev-server": "^4.2.1"
+  }
 }
